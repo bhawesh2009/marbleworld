@@ -65,7 +65,7 @@ function App() {
               <i className="fa fa-bars"></i>
             </button>
             <Link className="brand" to="/">
-              Rajsamand Mall
+              Marble World
             </Link>
           </div>
           <div>
