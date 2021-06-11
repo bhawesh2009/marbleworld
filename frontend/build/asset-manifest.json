@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bhawesh2009/marbleworld/static/css/main.36f4fc97.chunk.css",
+    "main.js": "/bhawesh2009/marbleworld/static/js/main.ebc8d8f2.chunk.js",
+    "main.js.map": "/bhawesh2009/marbleworld/static/js/main.ebc8d8f2.chunk.js.map",
+    "runtime-main.js": "/bhawesh2009/marbleworld/static/js/runtime-main.75e1a073.js",
+    "runtime-main.js.map": "/bhawesh2009/marbleworld/static/js/runtime-main.75e1a073.js.map",
+    "static/css/2.3fc42fd8.chunk.css": "/bhawesh2009/marbleworld/static/css/2.3fc42fd8.chunk.css",
+    "static/js/2.d62826a8.chunk.js": "/bhawesh2009/marbleworld/static/js/2.d62826a8.chunk.js",
+    "static/js/2.d62826a8.chunk.js.map": "/bhawesh2009/marbleworld/static/js/2.d62826a8.chunk.js.map",
+    "index.html": "/bhawesh2009/marbleworld/index.html",
+    "precache-manifest.6506046089408a8d4727be90c76b352b.js": "/bhawesh2009/marbleworld/precache-manifest.6506046089408a8d4727be90c76b352b.js",
+    "service-worker.js": "/bhawesh2009/marbleworld/service-worker.js",
+    "static/css/2.3fc42fd8.chunk.css.map": "/bhawesh2009/marbleworld/static/css/2.3fc42fd8.chunk.css.map",
+    "static/css/main.36f4fc97.chunk.css.map": "/bhawesh2009/marbleworld/static/css/main.36f4fc97.chunk.css.map",
+    "static/js/2.d62826a8.chunk.js.LICENSE.txt": "/bhawesh2009/marbleworld/static/js/2.d62826a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75e1a073.js",
+    "static/css/2.3fc42fd8.chunk.css",
+    "static/js/2.d62826a8.chunk.js",
+    "static/css/main.36f4fc97.chunk.css",
+    "static/js/main.ebc8d8f2.chunk.js"
+  ]
+}
